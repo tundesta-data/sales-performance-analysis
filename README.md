@@ -22,7 +22,7 @@ To help a retail business understand which products, regions and customers drive
  Results
 - Identified best-performing products and regions
 - Highlighted low-performing regions
-- Built an interactive Power BI dashboard for decision making
+- Built an interactive Looker Studio dashboard for decision making
 
  Author
 Tunde Adebayo
